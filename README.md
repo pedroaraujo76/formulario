@@ -1,7 +1,7 @@
 # Formulário
 
 ## Descrição
-Projeto desenvolvido com intuito de fazer um site real para práticar minhas habilidades e ganhar experiência, formulário dinâmico e responsivo.
+Projeto desenvolvido com intuito de fazer um site real para práticar minhas habilidades em React e ganhar experiência, formulário dinâmico e responsivo.
 
 ### Link de produção: https://formulario-lac-psi.vercel.app/
 
