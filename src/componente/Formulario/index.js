@@ -2,32 +2,32 @@ import './form.css'
 
 function Formulario () {
     return(
-    <div class="box">
+    <div className="box">
 
-        <span class="borderLine"></span>
+        <span className="borderLine"></span>
         
         <form>
 
             <h2>Informe seus dados</h2>
 
-            <div class="CaixaTexto">
+            <div className="CaixaTexto">
                 <input type="text" required="required"/>
                 <span>Nome de usuário</span>
                 <i></i>
             </div>
 
-            <div class="CaixaTexto">
+            <div className="CaixaTexto">
                 <input type="password" required="required"/>
                 <span>Senha</span>
                 <i></i>
             </div>
 
-            <div class="Recuperar">
+            <div className="Recuperar">
                 <a href="#">Recuperar senha</a>
                 <a href="#">Cadastrar</a>
             </div>
 
-            <input type="submit" value="Entrar"/>
+            <div className='inp-1'><input type="submit" value="Entrar"/></div>
         </form>
   </div>
     )    
